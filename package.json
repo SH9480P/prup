@@ -1,0 +1,16 @@
+{
+    "name": "github-image-paster",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "type": "module",
+    "dependencies": {
+        "@dotenvx/dotenvx": "^1.39.0",
+        "puppeteer": "^24.4.0"
+    }
+}
